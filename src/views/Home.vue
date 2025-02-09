@@ -22,11 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
-
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p.descripcion.mb-4 La Constitución Política de Colombia es el eje central del orden jurídico, regulando la estructura del Estado y garantizando derechos fundamentales. A través de la jerarquía normativa, el control constitucional y el bloque de constitucionalidad, se asegura la coherencia entre leyes internas y compromisos internacionales, fortaleciendo la democracia y la protección de los derechos humanos. Mecanismos como el voto, la acción de tutela y la consulta popular promueven la participación ciudadana y la transparencia, garantizando un Estado más justo, incluyente y alineado con principios de igualdad y justicia social.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")

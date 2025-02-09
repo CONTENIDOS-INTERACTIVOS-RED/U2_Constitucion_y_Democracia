@@ -17,13 +17,25 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #B9C8FE
   &-2
-    background-color: #FFFBE8
+    background-color: #F3F3FF
   &-3
-    background-color: #F0E9F6
+    background-color: #FFF3CB
   &-4
-    background-color: #EAF8FD
+    background-color: #F3F3F3
+  &-5
+    background-color: #DDE2FE
+  &-6
+    background-color: #F6F1DF
+  &-7
+    background-color: #EBF0FE
+  &-8
+    background-color: #FFF8E4
+  &-9
+    background-color: #E3D496
+
+
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -40,21 +52,24 @@
     border-top: 5px solid $color-terciario !important
 
 // Full Width Background
-.bg-full-width
-  background-size: cover
+.bg-full-width, .bg-full-width-2
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
   @media screen and (max-width: $bp-max-sm)
     padding-left: 1.5rem
     padding-right: 1.5rem
+.bg-full-width
+  background-size: cover
+.bg-full-width-2
+  background-size: contain
 
 .bg-fondo
   &-1
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
@@ -66,11 +81,10 @@ $custom-card-shadow: 0 4px 8px rgba(0,0,0,0.1)
 $custom-card-text-bg: #FFF
 $custom-card-text-padding: 15px
 $custom-card-text-font-size: 14px
-$custom-card-img-height: 322px
+$custom-card-img-height: 290px
 .custom-image-card
   border-radius: $custom-card-border-radius
   overflow: hidden
-  box-shadow: $custom-card-shadow
   height: 100%
   background-color: $custom-card-text-bg
   transition: transform 0.3s ease 
@@ -79,21 +93,9 @@ $custom-card-img-height: 322px
     transform: scale(1.01)
   &__image
     height: $custom-card-img-height
+    box-shadow: none !important
     object-fit: cover
 
-.custom-image-card-2
-  border-radius: $custom-card-border-radius
-  overflow: hidden
-  box-shadow: $custom-card-shadow
-  height: 100%
-  background-color: $custom-card-text-bg
-  transition: transform 0.3s ease 
-  cursor: pointer
-  &:hover
-    transform: scale(1.01)
-  &__image
-    height: 253px
-    object-fit: cover
 
 
 .acordion__header
@@ -210,3 +212,11 @@ $custom-card-img-height: 322px
   a
     text-decoration: none
     color: $color-sistema-texto
+
+.rounded-top
+  border-top-left-radius: 16px !important
+  border-top-right-radius: 16px !important
+
+.rounded-bottom
+  border-bottom-left-radius: 16px !important
+  border-bottom-right-radius: 16px !important
