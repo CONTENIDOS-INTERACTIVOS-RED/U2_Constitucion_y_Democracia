@@ -317,7 +317,7 @@
       .col-lg-4
         .tarjeta.bg-color-7.h-100
           .bg-color-1.px-4.px-lg-5.py-3.rounded-top
-            h4.mb-0.text-center Interferencia entre ramas
+            h4.mb-0.text-center Interferencia entre <br>ramas
           p.mb-0.p-4 Intereses particulares que buscan influir en decisiones públicas.
 
       .col-lg-4
