@@ -182,16 +182,13 @@
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+                a(href="https://bibliotecadigital.udea.edu.co/bitstream/10495/12496/1/ArroyaveSebastian_2018_DimensionFiscalDescentralizacionTerritorial.pdf" target="_blank" rel="noopener noreferrer") Arroyave, S. (2018). La dimensión fiscal en la descentralización territorial en Colombia como limitante de la autonomía subnacional . Universidad de Antioquia.
   
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+                p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://repository.unimilitar.edu.co/bitstream/handle/10654/16530/CardonaGalvezLinaNathalia2017.PDF.pdf?sequence=1" target="_blank" rel="noopener noreferrer") Cardona Gálvez, LN (2017). Debilidades del modelo administrativo territorial al ineficiencia en la gestión pública municipal en Colombia. Universidad Militar Nueva Granada. 
   
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
-  
+
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
                 img(src='@/assets/componentes/material-complementario.svg', alt='')

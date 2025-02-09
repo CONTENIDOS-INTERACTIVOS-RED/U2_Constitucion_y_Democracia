@@ -183,15 +183,12 @@
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+                a(href="https://www.repository.fedesarrollo.org.co/bitstream/handle/11445/260/Co_Eco_Sem1_2013_Parra-Pena_Ordonez_y_Acosta.pdf?sequence=2" target="_blank" rel="noopener noreferrer") Parra-Peña, R., Ordóñez, L., & Acosta, P. (2013). Pobreza, brechas y ruralidad en Colombia . Coyuntura Económica , 43(1), 151-183. 
   
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+                p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://revistas.lasalle.edu.co/index.php/ruls/article/view/1955" target="_blank" rel="noopener noreferrer") Gómez, S. (2017). Brechas urbano-rurales: Las desigualdades rurales en Colombia . Revista de la Universidad de La Salle , (73), 123-140. 
   
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
   
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
