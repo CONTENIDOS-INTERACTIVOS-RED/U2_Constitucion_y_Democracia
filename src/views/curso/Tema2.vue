@@ -1,6 +1,6 @@
 <template lang="pug">
   .curso-main-container.pb-3
-    BannerInterno(:subTitulo="'2. Título tema'")
+    BannerInterno(:subTitulo="'2. Tratados internacionales vigentes en Colombia'")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
   
       .bg-color-10.mb-5(data-aos="fade-up")
