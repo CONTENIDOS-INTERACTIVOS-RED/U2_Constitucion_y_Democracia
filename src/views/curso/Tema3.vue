@@ -64,19 +64,19 @@
                       img(src='@/assets/curso/tema3/info1.svg', alt='', style="max-width: 903px;").mx-auto
 
                   .bg-color-white.box-shadow.p-3(x="50%" y="62%" numero="+")
-                    h5 Mecanismos principales de participación
-                    p - Voto 
-                    p - Referendo 
-                    p - Plebiscito 
-                    p - Consulta popular 
-                    p - Iniciativa legislativa o normativa 
-                    p - Revocatoria del mandato 
-                    p - Cabildo abierto
+                    h5 Herramientas complementarias
+                    p.mb-2 - Acción de tutela 
+                    p - Derecho de petición
 
                   .bg-color-white.box-shadow.p-3(x="18%" y="62%" numero="+")
-                    h5 Herramientas complementarias
-                    p - Acción de tutela 
-                    p - Derecho de petición
+                    h5 Mecanismos principales de participación
+                    p.mb-2 - Voto 
+                    p.mb-2 - Referendo 
+                    p.mb-2 - Plebiscito 
+                    p.mb-2 - Consulta popular 
+                    p.mb-2 - Iniciativa legislativa o normativa 
+                    p.mb-2 - Revocatoria del mandato 
+                    p - Cabildo abierto
 
                   .bg-color-white.box-shadow.p-3(x="82%" y="62%" numero="+")
                     h5 Estándares internacionales aplicados

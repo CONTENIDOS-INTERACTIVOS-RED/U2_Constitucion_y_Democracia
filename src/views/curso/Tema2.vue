@@ -139,7 +139,6 @@
                 p Refuerza la credibilidad de Colombia en la comunidad internacional, asegurando que los tratados ratificados sean implementados de manera efectiva y en conformidad con el derecho interno.
 
 
-                p(data-aos="fade-up") En el caso colombiano, los tratados internacionales complementan el marco normativo nacional, adaptando al país a los estándares globales en áreas como derechos humanos, medio ambiente, comercio y cooperación internacional. Este enfoque asegura la alineación de las disposiciones nacionales con principios universales como la justicia, la igualdad y el respeto por la dignidad humana.
 
       h3(data-aos="flip-up") Casos emblemáticos de control constitucional de tratados en Colombia
 
