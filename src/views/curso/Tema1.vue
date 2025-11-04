@@ -354,11 +354,11 @@
 
               p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://repository.usta.edu.co/bitstream/handle/1163437873/2021ruthmoralesyedwinbarrera.pdf?sequence=1" target="_blank" rel="noopener noreferrer") Morales, R. y Barrera, E. (2021). Autonomía fiscal de los municipios en Colombia, los elementos del tributo y la reserva de ley . Universidad Santo Tomás. 
+              a(href="https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/e042cb82-b025-422a-9b09-d6cd076ffe4b/content" target="_blank" rel="noopener noreferrer") Marín H. J. (2020). Tratados internacionales aprobados por Colombia que establecen cláusulas de responsabilidad objetiva. Universidad de Antioquia.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/user/CorteConstitucional" target="_blank" rel="noopener noreferrer") Corte Constitucional de Colombia. (Dakota del Norte). El sistema jurídico colombiano explicado 
+              a(href="https://www.academia.edu/127964171/Nuevas_tendencias_del_derecho_en_Colombia" target="_blank" rel="noopener noreferrer") De la Rosa, M. V. SISTEMA JURÍDICO. Nuevas tendencias del derecho en Colombia, 14.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
